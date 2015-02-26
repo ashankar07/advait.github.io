@@ -1,1 +1,2 @@
-# advait.github.io
+# amalgam
+All works related to Amalgam goes here.
